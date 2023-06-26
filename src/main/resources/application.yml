@@ -1,0 +1,6 @@
+spring:
+  rabbitmq:
+    host: 47.113.219.144
+    password: pinger1234567
+    port: 6379
+    username: ygz

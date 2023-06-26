@@ -1,0 +1,12 @@
+
+spring:
+  application:
+    name: learn-consumer
+  rabbitmq:
+    host: 47.113.219.144
+    password: pinger1234567
+    port: 5672
+    username: ygz
+    virtual-host: powernode # 虚拟主机
+server:
+  port: 9091
